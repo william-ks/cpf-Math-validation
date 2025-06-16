@@ -25,5 +25,3 @@ const validateCpf = (cpf) => {
 
   return console.log("Valid Cpf");
 };
-
-validateCpf(userCpf);
