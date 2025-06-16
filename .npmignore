@@ -1,0 +1,17 @@
+# Source files
+src/
+tsconfig.json
+
+# Development dependencies
+node_modules/
+
+# Build artifacts (if any are not meant for publishing, though 'dist' is usually included)
+# e.g., logs, temp files
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor configuration
+.vscode/
+.idea/
